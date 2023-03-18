@@ -1,2 +1,2 @@
 # cb_adaptive_filters
-An improved checkerboard detection algorithm based on adaptive filters
+The dataset of "An improved checkerboard detection algorithm based on adaptive filters"
